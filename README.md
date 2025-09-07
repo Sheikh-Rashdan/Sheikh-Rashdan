@@ -1,7 +1,7 @@
-## Hi, I'm Rashdan
+## Hi, I'm Rashdan! 😸
 
 🎓 Computer Science Student at MIT Manipal <br/>
-📱 I like making Apps and Games
+📱 I'm interested in making Apps and Games
 
 
 ## 🌐 Socials:
