@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sheikh_rashdan)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,java,react,js,html,css,flutter,dart,mysql,blender&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cs,java,react,js,html,css,flutter,dart,fastapi,unity,mysql,sqlite,figma,blender&perline=4)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sheikh-Rashdan&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
